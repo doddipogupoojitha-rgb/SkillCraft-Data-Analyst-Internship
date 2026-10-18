@@ -1,0 +1,24 @@
+# SkillCraft Technology - Data Analyst Internship
+**ID:** SCT/OCT26/5217 | **Duration:** 15th Oct - 14th Nov 2026 | **Role:** Data Analyst Intern
+
+Hi, I'm Poojitha! This repository contains all 4 tasks completed for SkillCraft.
+
+## 📂 Tasks Overview
+- **Task 01:** Excel Sales Dashboard - Superstore Sales Analysis
+- **Task 02:** Data Cleaning & Preparation using Python (Pandas)
+- **Task 03:** Interactive Visualization - Power BI / Tableau
+- **Task 04:** Business Insights Report - Marketing Campaign Analysis
+
+## 🛠️ Tools Used
+Excel, Python (Pandas, Matplotlib, Seaborn), Power BI, SQL
+
+## 📊 Task 01 - Excel Sales Dashboard
+- Total Sales, Profit by Category, Sales Trend, Distribution
+- Insights: Technology category highest profit (39.5%)
+
+## 🧹 Task 02 - Data Cleaning
+- Handled missing values, removed duplicates
+- Converted Order Date from string to datetime
+- Exported Cleaned_Global_Superstore.csv
+
+More tasks updating soon...
